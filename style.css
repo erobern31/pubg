@@ -1,0 +1,33 @@
+body{
+  background-image: url('pubg.jpg');
+      background-position: center;
+}
+
+h1{
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 43%;
+      padding: 10% 14%;
+      margin-bottom: 11%;
+      font-weight: bold;
+
+}
+p{
+  text-align: center;
+  color: #f2f2f2;
+  font-family: 'Montserrat', sans-serif;
+}
+.btn{
+  align-items: center;
+  margin-left: 36%;
+      margin-top: 10%;
+
+}
+.pp{
+  margin-top: 10%;
+  
+  text-align: center;
+  padding: 7% 15%;
+  line-height: 1.5rem;
+}
